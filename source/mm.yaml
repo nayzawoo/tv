@@ -7,6 +7,25 @@ channels:
     logo: mrtv4.png
     url: https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
+  - name: Mizzima
+    logo: mizzima.png
+    url: https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
+
+  - name: Fortune TV
+    logo: fortunetv.jpg
+    url: http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
+
+  - name: Cookie
+    url: https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+
+  - name: MNTV
+    logo: mntv.jpg
+    url: http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+  - name: MVM
+    logo: mvm.jpg
+    url: https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
+
   - name: Mahar
     logo: mahar.png
     url: https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDg6NTI6NDAgQU0maGFzaF92YWx1ZT15SDdYYW1JWldRb05SVVM3a1l6ZERnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
@@ -19,13 +38,13 @@ channels:
     logo: channel7.jpg
     url: https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-  # - name: Myawady Variety
-  #   logo: mwd.png 
-  #   url: http://203.81.84.130/hls/mwd_variety/index.m3u8
+  - name: Myawady Variety
+    logo: mwd.png 
+    url: http://203.81.84.130/hls/mwd_variety/index.m3u8
 
-  # - name: Myawady
-  #   logo: mwd.png 
-  #   url: http://203.81.84.130/hls/mwd/index.m3u8
+  - name: Myawady
+    logo: mwd.png 
+    url: http://203.81.84.130/hls/mwd/index.m3u8
 
   - name: Mahar Bawdi
     logo: maharbawdi.jpg 
