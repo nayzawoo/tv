@@ -1,3 +1,3 @@
 # iptv mm
 
-https://nayzawoo.github.com/tv/mm.mp3
+> https://nayzawoo.github.io/tv/mm.m3u
