@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/channelk.png" group-title="",ChannelK
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mrtv4.png" group-title="",MRTV-4 HD
-https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+http://cdn-edge.otv.co.th:80/mmplay/mrtv-4/chunklist_w421736595.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mizzima.png" group-title="",Mizzima
-https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
+http://live-aec.sky-cdn.com:80/aec_live/Mizzima.stream_360p/chunklist_w1264114967.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/fortunetv.jpg" group-title="",Fortune TV
 http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/default.png" group-title="",Cookie
@@ -19,13 +19,11 @@ https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8?
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/channel7.jpg" group-title="",Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mwd.png" group-title="",Myawady Variety
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mwd.png" group-title="",Myawady
-http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/maharbawdi.jpg" group-title="",Mahar Bawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/default.png" group-title="",CINEMAX
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/cookie-asia.jpg" group-title="",Cookie Asia
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mwd.png" group-title="",Myawady Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mwd.png" group-title="",Myawady
+http://203.81.84.130/hls/mwd/index.m3u8

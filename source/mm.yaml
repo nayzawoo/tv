@@ -5,11 +5,13 @@ channels:
 
   - name: MRTV-4 HD
     logo: mrtv4.png
-    url: https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+    url: http://cdn-edge.otv.co.th:80/mmplay/mrtv-4/chunklist_w421736595.m3u8
+    # url: https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
   - name: Mizzima
     logo: mizzima.png
-    url: https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
+    url: http://live-aec.sky-cdn.com:80/aec_live/Mizzima.stream_360p/chunklist_w1264114967.m3u8
+    # url: https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
 
   - name: Fortune TV
     logo: fortunetv.jpg
@@ -38,6 +40,13 @@ channels:
     logo: channel7.jpg
     url: https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
+  - name: Mahar Bawdi
+    logo: maharbawdi.jpg 
+    url: https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+  - name: CINEMAX
+    url: http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+
   - name: Myawady Variety
     logo: mwd.png 
     url: http://203.81.84.130/hls/mwd_variety/index.m3u8
@@ -45,15 +54,3 @@ channels:
   - name: Myawady
     logo: mwd.png 
     url: http://203.81.84.130/hls/mwd/index.m3u8
-
-  - name: Mahar Bawdi
-    logo: maharbawdi.jpg 
-    url: https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-
-
-  - name: CINEMAX
-    url: http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
-
-  - name: Cookie Asia
-    logo: cookie-asia.jpg
-    url: https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
