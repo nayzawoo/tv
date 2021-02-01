@@ -1,21 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/channelk.png" group-title="",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/5plus.jpg" group-title="",5 Plus
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/MyanmarMaharBawdiHD.jpg" group-title="",Mahar Bawdi
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mahar.png" group-title="",Mahar TV
-http://maharlive.b-cdn.net/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mrtv4.png" group-title="",MRTV-4
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mvm2.jpg" group-title="",MVTV Myanmar
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mizzima.png" group-title="",Mizzima TV
-http://220.158.149.28:8180/TV00000000000000000170@HHZT
