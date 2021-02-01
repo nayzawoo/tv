@@ -4,7 +4,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Symfony\Component\Yaml\Yaml;
 
-$data = Yaml::parseFile(__DIR__ . "/../source/channels.yaml");
+$data = Yaml::parseFile(__DIR__ . "/../source/mm.yaml");
 $channels = $data['channels'];
 
 $out = '#EXTM3U';
