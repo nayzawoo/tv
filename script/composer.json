@@ -1,0 +1,13 @@
+{
+    "name": "nayzawoo/tv",
+    "require-dev": {
+        "symfony/yaml": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "nayzawoo",
+            "email": "nayzawoo.me@gmail.com"
+        }
+    ],
+    "require": {}
+}

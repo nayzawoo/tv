@@ -1,0 +1,28 @@
+channels:
+  - name: ChannelK
+    logo: channelk.png 
+    url: https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+  - name: MRTV-4 HD
+    logo: mrtv4.png
+    url: https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+  - name: Mahar
+    logo: mahar.png
+    url: https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDg6NTI6NDAgQU0maGFzaF92YWx1ZT15SDdYYW1JWldRb05SVVM3a1l6ZERnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
+  
+  - name: MRTV
+    logo: mrtv.png
+    url: http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+
+  - name: Myawady Variety
+    logo: mwd.png 
+    url: http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+  - name: Myawady
+    logo: mwd.png 
+    url: http://203.81.84.130/hls/mwd/index.m3u8
+
+  - name: Mahar Bawdi
+    logo: maharbawdi.jpg 
+    url: https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
