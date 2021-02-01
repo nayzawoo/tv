@@ -21,7 +21,7 @@ foreach ($channels as $key => $channel) {
 		'tvg-id=""', 
 		'tvg-name=""',
 		'tvg-language="Burmese"', 
-		'tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/'. $logo.'"',
+		'tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/gh-pages/assets/icons/'. $logo.'"',
 		'group-title="",'
 	];
 

@@ -3,16 +3,6 @@ channels:
     logo: channelk.png 
     url: https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
-  - name: MRTV-4 HD
-    logo: mrtv4.png
-    url: http://cdn-edge.otv.co.th:80/mmplay/mrtv-4/chunklist_w421736595.m3u8
-    # url: https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-
-  - name: Mizzima
-    logo: mizzima.png
-    url: http://live-aec.sky-cdn.com:80/aec_live/Mizzima.stream_360p/chunklist_w1264114967.m3u8
-    # url: https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
-
   - name: Fortune TV
     logo: fortunetv.jpg
     url: http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
@@ -24,10 +14,6 @@ channels:
     logo: mntv.jpg
     url: http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
-  - name: MVM
-    logo: mvm.jpg
-    url: https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
-
   - name: Mahar
     logo: mahar.png
     url: https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDg6NTI6NDAgQU0maGFzaF92YWx1ZT15SDdYYW1JWldRb05SVVM3a1l6ZERnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
@@ -35,6 +21,28 @@ channels:
   - name: MRTV HD
     logo: mrtv.png
     url: http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+
+###########  N/A ############
+
+  - name: MRTV-4 HD
+    logo: mrtv4.png
+    # url: http://cdn.iiptv.ml/live4/o043_th_m_high_tidapp.smil/playlist.m3u8
+    url: http://cdn856.stm.trueid.net/live4/o043_th_m_high_tidapp.smil/playlist.m3u8
+    # url: https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+  - name: 5Plus 
+    logo: 5plus.jpg
+    url: https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
+    # url: http://cdn-edge.otv.co.th:80/mmplay/5plus/chunklist_w1156838007.m3u8
+
+  - name: Mizzima
+    logo: mizzima.png
+    # url: http://live-aec.sky-cdn.com:80/aec_live/Mizzima.stream_360p/chunklist_w1264114967.m3u8
+    url: https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
+
+  - name: MVM
+    logo: mvm.jpg
+    url: https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
 
   - name: Channel 7
     logo: channel7.jpg
