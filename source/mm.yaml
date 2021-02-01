@@ -49,3 +49,11 @@ channels:
   - name: Mahar Bawdi
     logo: maharbawdi.jpg 
     url: https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+
+  - name: CINEMAX
+    url: http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+
+  - name: Cookie Asia
+    logo: cookie-asia.jpg
+    url: https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8

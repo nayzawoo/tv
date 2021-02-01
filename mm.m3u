@@ -25,3 +25,7 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/maharbawdi.jpg" group-title="",Mahar Bawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/default.png" group-title="",CINEMAX
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/cookie-asia.jpg" group-title="",Cookie Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
