@@ -30,7 +30,7 @@ foreach ($channels as $key => $channel) {
 	$out .= "\n" . $channel['url'];
 }
 
-file_put_contents(__DIR__ . '/../test.m3u', $out);
+file_put_contents(__DIR__ . '/../mm.m3u', $out);
 
 echo "\033[32mDone! \n";
 

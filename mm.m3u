@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/channelk.png" group-title="",ChannelK
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mrtv4.png" group-title="",MRTV-4 HD
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mahar.png" group-title="",Mahar
+https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDg6NTI6NDAgQU0maGFzaF92YWx1ZT15SDdYYW1JWldRb05SVVM3a1l6ZERnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mrtv.png" group-title="",MRTV
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mwd.png" group-title="",Myawady Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/mwd.png" group-title="",Myawady
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://raw.githubusercontent.com/nayzawoo/tv/main/assets/icons/maharbawdi.jpg" group-title="",Mahar Bawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
